@@ -25,3 +25,11 @@
 .a{
   text-decoration: none;
 }
+
+p{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 h3{
+  font-family: 'Merriweather', serif;
+}
