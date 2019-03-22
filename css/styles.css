@@ -25,11 +25,14 @@
 .a{
   text-decoration: none;
 }
-
-p{
-  font-family: 'Open Sans', sans-serif;
+.display-4{
+  font-family: 'Noto Serif', serif;
 }
 
-h1 h3{
-  font-family: 'Merriweather', serif;
+p{
+  font-family: 'Open Sans', sans-serif; font-size: 18px !important;
+}
+
+body{
+
 }
